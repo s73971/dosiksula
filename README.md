@@ -1,1 +1,3 @@
-# dosiksula - Sultan version
+# dosiksula
+
+Sultan version + Dastan version (merge conflict resolved)
